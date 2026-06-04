@@ -1,0 +1,58 @@
+echo "# jimmynovakdihcheeselover69" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jimmynovakdihcheeselover69/jimmynovakdihcheeselover69.git
+git push -u origin main
+<!DOCTYPE html>
+<html>
+   
+    <style>
+        #minecraft{
+            color:red;
+            font-family:impact;
+            font-size:30px;
+        }
+        
+        body{
+            text-align:center;
+        }
+        
+        h1{
+            color:brown;
+            font-family:impact;
+        }
+        p{
+            text-align:center;
+            color:crimson;
+            font-family:cursive;
+            font-size:25px;
+        }
+        table{
+            border-collapse: collapse;
+            border-color:darkslategrey;
+            color:white;
+            font-family:monospace;
+            background-color:darkgrey;
+    
+        
+    </style>
+    <body>
+       <img src="https://media.tenor.com/YQe3T6Uk2gAAAAAM/castiel-supernatural.gif">
+       <hr>
+       <p>Carson / Castiel 🤖</p>
+       
+       <h3 class="top5">The top five things I am most excited for about next year</h3>
+    
+       
+       <h3 class="favcation">My favorite place I have vacationed at</h3>
+       <ul class="list">
+       <li><a><a href="https://rexplode2splosion-13764166.codehs.me/index.html"> Egypt</a></li>
+       </ul>
+       <br>
+       <br>
+       
+
+    </body>
+</html>
