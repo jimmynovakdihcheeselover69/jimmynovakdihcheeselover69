@@ -11,36 +11,46 @@ git push -u origin main
     <style>
         #minecraft{
             color:red;
-            font-family:impact;
+            font-family:Sans-Serif;
             font-size:30px;
         }
         
         body{
             text-align:center;
+            color:darkslateblue;
+            font:georgia;
+            font-size: 17px;
         }
         
         h1{
-            color:brown;
-            font-family:impact;
+            
         }
         p{
             text-align:center;
-            color:crimson;
-            font-family:cursive;
+            color:darkslateblue;
+            font:georgia;
             font-size:25px;
         }
     
         
     </style>
     <body>
-       <img src="https://media.tenor.com/YQe3T6Uk2gAAAAAM/castiel-supernatural.gif">
+       <p>༺𓆩༒︎𓆪༻</p>
+       <img src="https://media.tenor.com/YQe3T6Uk2gAAAAAM/castiel-supernatural.gif " width="577" height="177">
        <hr>
-       <p>Carson / Castiel 🤖</p>
-
-   h1{
-         <p>any pronouns<p>
-   }
+       
       
+       <p><strong> ˚₊‧꒰ა Carson // Castiel ໒꒱ ‧₊˚ <strong></p>
+         <p></p>
 
+      <h1class="extra_info"> ISTP-T // PANSEXUAL</h1>
+      
+      
+      <p></p>
+      
+      <h2class="pro_nouns">ANY  PRONOUNS</h2>
+      
     </body>
+       
+       
 </html>
