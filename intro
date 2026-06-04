@@ -29,12 +29,6 @@ git push -u origin main
             font-family:cursive;
             font-size:25px;
         }
-        table{
-            border-collapse: collapse;
-            border-color:darkslategrey;
-            color:white;
-            font-family:monospace;
-            background-color:darkgrey;
     
         
     </style>
@@ -42,17 +36,11 @@ git push -u origin main
        <img src="https://media.tenor.com/YQe3T6Uk2gAAAAAM/castiel-supernatural.gif">
        <hr>
        <p>Carson / Castiel 🤖</p>
-       
-       <h3 class="top5">The top five things I am most excited for about next year</h3>
-    
-       
-       <h3 class="favcation">My favorite place I have vacationed at</h3>
-       <ul class="list">
-       <li><a><a href="https://rexplode2splosion-13764166.codehs.me/index.html"> Egypt</a></li>
-       </ul>
-       <br>
-       <br>
-       
+
+   h1{
+         <p>any pronouns<p>
+   }
+      
 
     </body>
 </html>
